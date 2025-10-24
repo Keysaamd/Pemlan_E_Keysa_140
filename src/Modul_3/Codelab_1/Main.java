@@ -1,8 +1,8 @@
-package Modul_3;
+package Modul_3.Codelab_1;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello, Version Control!");
+        System.out.println("Hello, Version Controll!");
         System.out.println("Ini adalah latihan Git untuk modul pemrograman lanjut.");
 
         // Contoh method tambahan

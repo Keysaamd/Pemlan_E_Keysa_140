@@ -48,7 +48,7 @@ public class Book {
     public void adjustStock(int adjustment) {
         setStock(getStock() + adjustment);
         System.out.println("Stock adjusted.");
-        System.out.println("Current stock: " + getStock());
+        System.out.println("Current: " + getStock());
     }
 
     public double getPrice() {

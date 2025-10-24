@@ -1,4 +1,4 @@
-package Modul_3;
+package Modul_3.Codelab_2;
 
 /**
  * Kelas kalkulator sederhana untuk demonstrasi
