@@ -8,7 +8,7 @@ public class AverageCalculator {
         Scanner scanner = new Scanner(System.in);
 
         try {
-            System.out.print("Masukkan jumlah angka: ");
+            System.out.print("Masukkan jumlah angkaa: ");
             int n = scanner.nextInt();
 
             // Validasi input jumlah angka
