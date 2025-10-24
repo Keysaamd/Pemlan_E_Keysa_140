@@ -13,7 +13,7 @@ public class Main {
      * Method untuk menampilkan informasi tambahan
      */
     public static void displayInfo() {
-        String nama = "Java Version Control Practice";
+        String nama = "Java Version Control Practicee";
         String versi = "1.0";
         System.out.println("Nama Projek: " + nama);
         System.out.println("Versi: " + versi);

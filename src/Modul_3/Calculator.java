@@ -4,7 +4,6 @@ package Modul_3;
  * Kelas kalkulator sederhana untuk demonstrasi
  */
 public class Calculator {
-
     /**
      * Method untuk penambahan
      * @param a angka pertama
