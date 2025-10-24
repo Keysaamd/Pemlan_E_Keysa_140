@@ -39,7 +39,7 @@ public class AverageCalculator {
             System.out.println("Error: Terjadi kesalahan - " + e.getMessage());
         } finally {
             scanner.close();
-            System.out.println("Program selesai.");
+            System.out.println("Program selesai!.");
         }
     }
 }

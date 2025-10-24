@@ -20,7 +20,7 @@ public class CodeLab2 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.print("Usia: ");
+        System.out.print("Masukkan Usia: ");
         int usia = scanner.nextInt();
         scanner.close();
 
