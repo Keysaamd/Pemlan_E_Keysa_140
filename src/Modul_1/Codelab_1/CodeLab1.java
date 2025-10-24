@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class CodeLab1 {
     public static void main(String[] args) {
-        String[] nama = {"Adi", "Budi", "Cahyo", "Diana", "Eva"};
+        String[] nama = {"Adi", "Budi", "Cahyo", "Diana", "Keysaaaaaaaaa"};
         ArrayList<String> namaTerpanjang = cariNamaTerpanjang(nama);
         System.out.println("Nama terpanjang adalah: " + namaTerpanjang);
     }
