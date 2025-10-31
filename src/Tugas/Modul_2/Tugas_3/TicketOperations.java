@@ -1,18 +1,37 @@
 package Tugas.Modul_2.Tugas_3;
 
+/**
+ * Interface yang mendefinisikan operasi-operasi yang dapat dilakukan pada tiket.
+ * Menggunakan konsep interface untuk abstraction dan polymorphism.
+ *
+ * @author Keysa
+ * */
+
 public interface TicketOperations {
-    // Method to check train status
+    /**
+     * Memeriksa status perjalanan kereta api.
+     * Menampilkan informasi tentang tujuan perjalanan.
+     * */
     void checkStatus();
 
-    // Method to display departure time
+    /**
+     * Menampilkan waktu keberangkatan kereta.
+     * */
     void displayDepartureTime();
 
-    // Method to display the route
+    /**
+     * Menampilkan rute perjalanan dari stasiun asal ke tujuan.
+     * */
     void displyRoute();
 
-    // Method to display basic info passenger and trip
+    /**
+     * Menampilkan informasi dasar penumpang dan perjalanan.
+     * Termasuk nama, stasiun, tujuan, dan harga.
+     * */
     void displayBasicInfo();
 
-    // Method to display full info including time and class
+    /**
+     * Menampilkan informasi lengkap tiket termasuk semua detail.
+     * */
     void detailedInfo();
 }
